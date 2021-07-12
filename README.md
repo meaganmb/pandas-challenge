@@ -1,5 +1,5 @@
-# pandas-challenge
-The is homework 4 in the UCI data analytics boot camp
+# Pandas-challenge; Heroes of Pymoli
+The is homework 4 in the UCI data analytics boot camp. 
 
 ## Written Report
 * From the data, we observed that most of the purchases (84%) were done by males
